@@ -1,0 +1,71 @@
+2025-01-03 00:11:51,641 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:11:51,641 - ERROR - Attempt 2: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:11:51,641 - ERROR - Attempt 3: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:11:51,641 - ERROR - Failed to move source.txt to destination.txt after 3 attempts.
+2025-01-03 00:11:51,642 - ERROR - Attempt 1: Non-recoverable error when moving source.txt. Skipping.
+2025-01-03 00:11:51,642 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:11:51,642 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:11:51,642 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:11:51,645 - INFO - Moved back: destination_file1.txt -> source_file1.txt
+2025-01-03 00:11:51,645 - INFO - Undo operation completed for the specified directory.
+2025-01-03 00:13:02,256 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:13:02,256 - ERROR - Attempt 2: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:13:02,256 - ERROR - Attempt 3: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:13:02,256 - ERROR - Failed to move source.txt to destination.txt after 3 attempts.
+2025-01-03 00:13:02,257 - ERROR - Attempt 1: Non-recoverable error when moving source.txt. Skipping.
+2025-01-03 00:13:02,257 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:13:02,257 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:13:02,258 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:13:02,260 - INFO - Moved back: destination_file1.txt -> source_file1.txt
+2025-01-03 00:13:02,261 - INFO - Undo operation completed for the specified directory.
+2025-01-03 00:15:50,557 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:15:50,558 - ERROR - Attempt 2: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:15:50,558 - ERROR - Attempt 3: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:15:50,558 - ERROR - Failed to move source.txt to destination.txt after 3 attempts.
+2025-01-03 00:15:50,558 - ERROR - Attempt 1: Non-recoverable error when moving source.txt. Skipping.
+2025-01-03 00:15:50,559 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:15:50,559 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:15:50,559 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:15:50,562 - INFO - Moved back: destination_file1.txt -> source_file1.txt
+2025-01-03 00:15:50,562 - INFO - Undo operation completed for the specified directory.
+2025-01-03 00:17:59,011 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:17:59,011 - ERROR - Attempt 2: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:17:59,011 - ERROR - Attempt 3: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:17:59,012 - ERROR - Failed to move source.txt to destination.txt after 3 attempts.
+2025-01-03 00:17:59,012 - ERROR - Attempt 1: Non-recoverable error when moving source.txt. Skipping.
+2025-01-03 00:17:59,012 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:17:59,013 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:17:59,013 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:17:59,015 - INFO - Moved back: destination_file1.txt -> source_file1.txt
+2025-01-03 00:17:59,015 - INFO - Undo operation completed for the specified directory.
+2025-01-03 00:19:02,770 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:19:02,770 - ERROR - Attempt 2: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:19:02,770 - ERROR - Attempt 3: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:19:02,770 - ERROR - Failed to move source.txt to destination.txt after 3 attempts.
+2025-01-03 00:19:02,771 - ERROR - Attempt 1: Non-recoverable error when moving source.txt. Skipping.
+2025-01-03 00:19:02,772 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:19:02,772 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:19:02,772 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:19:02,775 - INFO - Moved back: destination_file1.txt -> source_file1.txt
+2025-01-03 00:19:02,775 - INFO - Undo operation completed for the specified directory.
+2025-01-03 00:21:16,708 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:21:16,709 - ERROR - Attempt 2: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:21:16,709 - ERROR - Attempt 3: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:21:16,709 - ERROR - Failed to move source.txt to destination.txt after 3 attempts.
+2025-01-03 00:21:16,709 - ERROR - Attempt 1: Non-recoverable error when moving source.txt. Skipping.
+2025-01-03 00:21:16,710 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:21:16,710 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:21:16,710 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:21:16,712 - INFO - Moved back: destination_file1.txt -> source_file1.txt
+2025-01-03 00:21:16,713 - INFO - Undo operation completed for the specified directory.
+2025-01-03 00:23:53,245 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:23:53,245 - ERROR - Attempt 2: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:23:53,245 - ERROR - Attempt 3: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:23:53,245 - ERROR - Failed to move source.txt to destination.txt after 3 attempts.
+2025-01-03 00:23:53,246 - ERROR - Attempt 1: Non-recoverable error when moving source.txt. Skipping.
+2025-01-03 00:23:53,246 - ERROR - Attempt 1: Recoverable error when moving source.txt. Error: 
+2025-01-03 00:23:53,246 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:23:53,247 - INFO - Successfully moved source.txt to destination.txt.
+2025-01-03 00:23:53,250 - INFO - Moved back: destination_file1.txt -> source_file1.txt
+2025-01-03 00:23:53,250 - INFO - Undo operation completed for the specified directory.
+2025-01-03 00:34:18,008 - INFO - Successfully moved /Users/meseretgetahun/one drive/.DS_Store to /Users/meseretgetahun/one drive/Others/.DS_Store.
